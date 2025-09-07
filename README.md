@@ -9,5 +9,5 @@ The dataset was collected via **web scraping** from the IRCTC app and contains t
 |---------------|-----------|------------|
 | `Review ID`    | object    | Unique identifier for each review |
 | `Review Text`  | object    | Textual feedback from users |
-| `Rating`       | int64     | User rating (e.g., 1–5 stars) |
+| `Rating`       | int64     | User rating (eg: 1–5 stars) |
 | `Date`         | object    | Date of the review |
